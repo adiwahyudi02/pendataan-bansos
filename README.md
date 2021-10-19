@@ -37,6 +37,6 @@ $ npm start
 
 **Kelas:** React Js
 
-**Video:** [https://drive.google.com/file/d/177aXKIPsAIsuSjfRAoOwDjOuUdQkmAEC/view?usp=sharing](https://drive.google.com/file/d/177aXKIPsAIsuSjfRAoOwDjOuUdQkmAEC/view?usp=sharing)
+**Video:** [https://drive.google.com/file/d/17vA3oe5FjngB0fGm6S9rSwn2jerLX7al/view?usp=sharing](https://drive.google.com/file/d/17vA3oe5FjngB0fGm6S9rSwn2jerLX7al/view?usp=sharing)
 
 **Aplikasi:** [https://drive.google.com/file/d/1twzftl1aodaliarWBXZHx4s1PwzGVZwV/view?usp=sharing](https://drive.google.com/file/d/1twzftl1aodaliarWBXZHx4s1PwzGVZwV/view?usp=sharing)
