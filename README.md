@@ -40,3 +40,5 @@ $ npm start
 **Video:** [https://drive.google.com/file/d/17vA3oe5FjngB0fGm6S9rSwn2jerLX7al/view?usp=sharing](https://drive.google.com/file/d/17vA3oe5FjngB0fGm6S9rSwn2jerLX7al/view?usp=sharing)
 
 **Aplikasi:** [https://drive.google.com/file/d/1twzftl1aodaliarWBXZHx4s1PwzGVZwV/view?usp=sharing](https://drive.google.com/file/d/1twzftl1aodaliarWBXZHx4s1PwzGVZwV/view?usp=sharing)
+
+**Documentation:** [https://docs.google.com/document/d/1KOPHEM3h9blUCJK5j1j7LkiKrjTQq6n4swALzvwZexs/edit?usp=sharing](https://docs.google.com/document/d/1KOPHEM3h9blUCJK5j1j7LkiKrjTQq6n4swALzvwZexs/edit?usp=sharing)
